@@ -10,30 +10,30 @@ exports.task_detail = (req, res) => {
 
 // GET create
 exports.task_create_get = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_create_get");
 };
 
 // POST create
 exports.task_create_post = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_create_post");
 };
 
 // GET delete
 exports.task_delete_get = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_delete_get");
 };
 
 // POST delete
 exports.task_delete_post = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_delete_post");
 };
 
 // GET update
 exports.task_update_get = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_update_get");
 };
 
 // POST update
 exports.task_update_post = (req, res) => {
-    res.send("NOT IMPLEMENTED: task_list");
+    res.send("NOT IMPLEMENTED: task_update_post");
 };
